@@ -14,7 +14,6 @@
 - [intent-first](https://github.com/ao3575911/intent-first): intent files for every change, enforced in CI, with `git why` to trace any line back to its reason.
 - [agent-session-recorder](https://github.com/ao3575911/agent-session-recorder): a local-first flight recorder for AI coding agents. Claude Code, Codex CLI, and MCP sessions go on one redacted timeline.
 - [repo2readme](https://github.com/ao3575911/repo2readme): turn any public GitHub repo into a README draft, with every command, link, and badge traced to the source or flagged for review. CLI + GitHub Action.
-- [agent-control-stack](https://github.com/ao3575911/agent-control-stack): a local-first control plane for policy-gated agent work, with approvals, a tamper-evident audit trail, and MCP transport. *(v0.1 alpha, dry-run)*
 
 **Identity and trust**
 
