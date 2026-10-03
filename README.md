@@ -5,6 +5,7 @@
 ## Building now
 
 - **[intent-first](https://github.com/ao3575911/intent-first)**: commit the why. A GitHub Action that requires each PR to carry one versioned intent (Want / Not / Done when) and runs its checks.
+  - **[Intent Inbox](https://github.com/ao3575911/intent-first#intent-inbox)**: a human approves an intent, any agent or person claims it by PR, and the first claim whose checks pass is merged.
 - **living-issues**: *coming soon.*
 
 ## Featured projects
