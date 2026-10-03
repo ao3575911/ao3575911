@@ -34,9 +34,9 @@
 
 ## Writing
 
-- [Intent-First Repos: commit the why. Code is regenerable.](https://gist.github.com/ao3575911/fa15e887ec30e64129bb8e072d295319)
-- [Intent Contracts: keep enforcing why code exists](https://gist.github.com/ao3575911/89742afb932d30148f1b0872093954eb)
-- [Three futures for the intent file: Inbox, Diff, Lockfile](https://gist.github.com/ao3575911/00360f28d7d8e1f19292eaf3114a7cb6)
+- [Intent-First: A Ledger of Why](https://gist.github.com/ao3575911/6603872a6b14f4ac9cdfff4c2aa25a04): Git remembers what changed, never why. One immutable intent per change, checked in CI.
+- [Intent Contracts: keep enforcing why code exists](https://gist.github.com/ao3575911/b888f8d9a30ef78dda14ba2d9bdd7674)
+- [Three futures for the intent file: Inbox, Diff, Lockfile](https://gist.github.com/ao3575911/459160c8dc81eaf7f656e28eb651c79e)
 - agent-session-recorder series: [1. The session is the artifact](https://gist.github.com/ao3575911/5a6a8c69cd48d896add442a33a9709fe) · [2. What a record should remember](https://gist.github.com/ao3575911/eb6866acd9d6e015ba883e406fdc9a6b) · [3. What becomes possible](https://gist.github.com/ao3575911/fd97f0e7077faeb2526b38510ee8c2cb)
 - [repo2readme: evidence-backed README drafts](https://gist.github.com/ao3575911/725db8b78a47b980ca23360f6bfd2da1) · [Endgame: a README that stays true on its own](https://gist.github.com/ao3575911/c08a6bb3fa2ed5781f3d7537f283de0b)
 - [GRAFT: Git as publication, fork as wiki, main as catalog](https://gist.github.com/ao3575911/283de1ef92d3233abb1762585fb30c3f)
