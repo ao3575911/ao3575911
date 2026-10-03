@@ -23,7 +23,7 @@
 **Knowledge and provenance**
 
 - [sourcefold](https://github.com/ao3575911/sourcefold): a local-first CLI that folds heterogeneous sources onto one auditable sheet without destroying provenance.
-- [graft-wiki](https://github.com/ao3575911/graft-wiki): a catalogue-not-merge protocol for LLM-compiled wikis. Every fork is a sovereign wiki, and the origin only catalogues.
+- [graft protocol](https://github.com/ao3575911/sourcefold/blob/main/docs/graft-protocol.md): a catalogue-not-merge protocol for LLM-compiled wikis. Every fork is a sovereign wiki, and the origin only catalogues. Now part of sourcefold.
 - [r2s](https://github.com/ao3575911/r2s): research → rank → ship. A JSON Schema contract and Python CLI for ranked cards, handoffs, and outcomes (`pip install r2s`).
 
 **Languages and low-level**
