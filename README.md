@@ -28,7 +28,7 @@
 
 **Languages and low-level**
 
-- [haxor](https://github.com/ao3575911/haxor): a minimal Python-inspired language with a static verifier, runtime contracts, and a REPL (`pip install hxr`).
+- [haxor](https://github.com/ao3575911/haxor): a minimal Python-inspired language with a static verifier, runtime contracts, and a REPL.
 - [keydecode](https://github.com/ao3575911/keydecode): a PS/2 scan-code decoder in C for keystroke forensics. Zero dependencies.
 
 ## Writing
